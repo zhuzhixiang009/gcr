@@ -1,2 +1,2 @@
-FROM ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-java:1.20.2
+FROM ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-java:1.19.0
 MAINTAINER Q
